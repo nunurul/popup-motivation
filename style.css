@@ -69,6 +69,7 @@
   transition: top 0ms ease-in-out 0ms, opacity ease-in-out 500ms,
     margin-top ease-in-out 500ms;
 }
+
 .popup .bx {
   position: absolute;
   top: -50px;
